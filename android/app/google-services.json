@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "122775997166",
+    "firebase_url": "https://mern-1-zast-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mern-1-zast",
+    "storage_bucket": "mern-1-zast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122775997166:android:f1b188e02622a711d4c1ff",
+        "android_client_info": {
+          "package_name": "com.mern1zast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVEfV-cZOExJJ2TvOcO1gLS67pxp4KFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
